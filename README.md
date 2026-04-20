@@ -8,4 +8,8 @@ The analysis is based on data collected via a survey on Amazon Mechanical Turk (
 The data set includes attributes about the driver and their journey, as well as details relating the coupon sent to the drivers - see 'coupon.csv' file appended.
 
 ## Toolset
-Python
+Python - with following libraries
+* pandas
+* numpy
+* matplotlib.pyplot
+* seaborn
